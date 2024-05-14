@@ -1,0 +1,12 @@
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja App.csproj.AssemblyReference.cache
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja_App.Properties.Resources.resources
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja App.csproj.GenerateResource.cache
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja App.csproj.CoreCompileInputs.cache
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\bin\Debug\Zoja App.exe.config
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\bin\Debug\Zoja App.exe
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\bin\Debug\Zoja App.pdb
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja App.exe
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja App.pdb
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja_App.Form2.resources
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja_App.formMenu.resources
+C:\Users\Nikodem\source\repos\Zoja App\Zoja App\obj\Debug\Zoja_App.addAppForm.resources
